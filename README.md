@@ -2,7 +2,9 @@
 
 A modern, user-friendly desktop application to download videos from YouTube, Instagram, and hundreds of other platforms—powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp) and a beautiful [customtkinter](https://github.com/TomSchimansky/CustomTkinter) interface.
 
-![screenshot](screenshot.png) <!-- Add a screenshot if you have one! -->
+![image](https://github.com/user-attachments/assets/b1840b3b-6d95-473f-8485-5fec3cc86051)
+![image](https://github.com/user-attachments/assets/f6f67c49-46b2-44f7-9d64-94c08c9447f6)
+![image](https://github.com/user-attachments/assets/ecea6596-2603-486f-9c08-6f6451b9cc4b)
 
 
 
@@ -83,14 +85,6 @@ To download from these sites:
 
 - Python 3.8+
 - Windows, macOS, or Linux
-
-
-
- 📸 Screenshot
-
-<!-- Add a screenshot of your app here! -->
-![App Screenshot](screenshot.png)
-
 
 
  🤝 Credits
