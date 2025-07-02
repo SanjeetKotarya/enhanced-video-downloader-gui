@@ -1,3 +1,5 @@
+Replace this file with your own "cookies.txt" file.
+
 Some sites (like Instagram) require you to be logged in.  
 To download from these sites:
 1. Use a browser extension like [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/) to export your browser cookies.
