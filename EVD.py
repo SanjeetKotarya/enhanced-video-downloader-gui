@@ -12,6 +12,7 @@ ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("dark-blue")
 
 app = ctk.CTk()
+app.iconbitmap('icon.ico')
 app.title("Enhanced Video Downloader")
 app.geometry("650x550")
 app.resizable(False, False)
