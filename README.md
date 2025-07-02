@@ -41,7 +41,7 @@ Main dependencies:
 If you want a standalone Windows executable:
 ```sh
 pip install pyinstaller
-pyinstaller --onefile --noconsole --icon=youricon.ico VIDD.py
+pyinstaller --onefile --noconsole --icon=youricon.ico EVD.py
 ```
 The `.exe` will be in the `dist` folder.
 
@@ -51,7 +51,7 @@ The `.exe` will be in the `dist` folder.
 
 1. Run the app:
    ```sh
-   python VIDD.py
+   python EVD.py
    ```
    or double-click the `.exe` if you built one.
 
@@ -67,7 +67,7 @@ The `.exe` will be in the `dist` folder.
 Some sites (like Instagram) require you to be logged in.  
 To download from these sites:
 1. Use a browser extension like [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/) to export your browser cookies.
-2. Place the exported `cookies.txt` file in the same folder as the app (`VIDD.py` or the `.exe`).
+2. Place the exported `cookies.txt` file in the same folder as the app (`EVD.py` or the `.exe`).
 3. Restart the app if it was open.
 
 
